@@ -10,15 +10,27 @@ O aplicativo consiste em uma página web responsiva construída em React e uma A
 
 O projeto está hospedado e rodando para teste, no link abaixo.
 
-- [Canopus](https://testeimagens.netlify.app/)
+- [Canopus](https://todolistcorelab.netlify.app/)
+
+A API do projeto está hospedado e rodando para teste, no link abaixo.
+
+- [API - Canopus](https://corelab-api-challenge-h8ne6b9fo-leotolotti.vercel.app/tarefas)
 
 ## Uso Local
 
 1. Para o uso local dessa hospedagem, siga os passos seguintes:
+
    ```bash
    npm install
+
    ```
-2. Inicie o projeto.
+
+2. Crie um arquivo .env na raiz do projeto e configure as seguintes variaveis de ambientes.
+
+- MONGODB_URI
+- PORT
+
+3. Inicie o projeto.
    ```bash
    npm start
    ```
