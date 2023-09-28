@@ -10,11 +10,11 @@ O aplicativo consiste em uma página web responsiva construída em React e uma A
 
 O projeto está hospedado e rodando para teste, no link abaixo.
 
-- [Canopus](https://todolistcorelab.netlify.app/)
+- [Canopus](https://canopus-teste-web.netlify.app/)
 
 A API do projeto está hospedado e rodando para teste, no link abaixo.
 
-- [API - Canopus](https://corelab-api-challenge-h8ne6b9fo-leotolotti.vercel.app/tarefas)
+- [API - Canopus](https://canopus-teste-api.vercel.app/)
 
 ## Uso Local
 
